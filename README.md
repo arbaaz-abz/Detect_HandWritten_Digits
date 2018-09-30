@@ -1,4 +1,4 @@
-# ML-PROJECT
+# DETECT HANDWRITTEN DIGITS
 Repo for AI project
 
 This projec trains a Decision Tree Classifier using a series of pixelated csv dataset . 
